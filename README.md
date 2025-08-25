@@ -1,5 +1,4 @@
 # discord-bot
-# ultra_link_filter_bot.py
 """
 saachi Link Filter Bot (discord.py v2)
 Features included:
